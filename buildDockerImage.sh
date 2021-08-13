@@ -104,7 +104,7 @@ while getopts "hesxiv:o:" optname; do
   esac
 done
 
-checkDockerVersion
+#checkDockerVersion
 
 
 
